@@ -1,5 +1,0 @@
-outs:
-- md5: c413dbca16100d0316fb907ac9c015d8
-  size: 2374
-  hash: md5
-  path: dvc.json
